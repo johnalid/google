@@ -79,6 +79,7 @@ input[type=button]{
     justify-content: space-between;
     border-radius: 100px;
     border:2px solid #e9ecef;
+    box-sizing: border-box;
 }
 
 .textbox:hover{
